@@ -13,8 +13,8 @@ function Home() {
 					<h5>
 						I'm an IT guy based in switzerland that spezializes in designing and
 						developing beautiful and user-friendly web-solutions. I finished my 
-						bachelors degree in 2023 and I'm currently working as a UI/UX Designer at 
-						Bertschi Digital Logistics.
+						bachelors degree in 2023 and I'm currently designing and creating 
+						applications for Bertschi Digital Logistics AG
 					</h5>
 					<div className="links">
 						<Link
@@ -23,7 +23,7 @@ function Home() {
 							icon="fa-solid fa-envelope"
 						/>
 						<Link
-							link="https://www.linkedin.com/in/cyberniinja/"
+							link="https://www.linkedin.com/in/mjorn/"
 							text="cyberniinja"
 							icon="fa-brands fa-linkedin-in"
 						/>
@@ -33,7 +33,7 @@ function Home() {
 							icon="fa-brands fa-github"
 						/>
 						<Link
-							link="https://www.instagram.com/cyberniinja/"
+							link="https://www.instagram.com/elias.mjoen/"
 							text="cyberniinja"
 							icon="fa-brands fa-instagram"
 						/>
