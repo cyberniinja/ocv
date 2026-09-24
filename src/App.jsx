@@ -2,7 +2,6 @@ import React from 'react';
 import Home from './sections/home';
 import About from './sections/about';
 import Projects from './sections/projects';
-import Contact from './sections/contact';
 import Carreer from './sections/career';
 import Navbar from './components/navbar';
 import './App.sass';
@@ -58,7 +57,6 @@ function App() {
 				<Projects />
 				<Carreer />
 				<About />
-				<Contact />
 			</main>
 			<footer className="primary">
 				© Elias Mjøen 2023
