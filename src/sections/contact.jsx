@@ -1,4 +1,4 @@
-import React, { useState, useCallback, useEffect } from 'react';
+import React, { useState, useCallback } from 'react';
 import './contact.sass';
 import { Button, Link } from '../components/button';
 import axios from 'axios';

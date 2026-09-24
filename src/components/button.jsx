@@ -1,6 +1,5 @@
 import React from 'react';
 import './button.sass';
-import { Link as RL } from 'react-router-dom';
 
 function Button({ text, children, className, onClick, icon, ...rest }) {
 	return (

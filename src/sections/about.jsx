@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Link } from '../components/button';
+import { Link } from '../components/button';
 import './about.sass';
 import childhood from '../images/childhood.jpg';
 import hobbies from '../images/hobbies.jpg';
