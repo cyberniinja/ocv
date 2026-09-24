@@ -10,7 +10,7 @@ export default function Project({
 	site,
 	demo,
 }) {
-	const [show, setShow] = React.useState(false);
+	const [show] = React.useState(false);
 	return (
 		<article className="project">
 			<img className="project__image" src={picture} alt=""></img>
