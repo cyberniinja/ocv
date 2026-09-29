@@ -24,18 +24,13 @@ function Home() {
 						/>
 						<Link
 							link="https://www.linkedin.com/in/mjorn/"
-							text="cyberniinja"
+							text="mjorn"
 							icon="fa-brands fa-linkedin-in"
 						/>
 						<Link
 							link="https://github.com/cyberniinja"
 							text="cyberniinja"
 							icon="fa-brands fa-github"
-						/>
-						<Link
-							link="https://www.instagram.com/elias.mjoen/"
-							text="cyberniinja"
-							icon="fa-brands fa-instagram"
 						/>
 					</div>
 				</div>
