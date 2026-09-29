@@ -31,8 +31,8 @@ export default function Projects() {
 					<Project
 						id="ivis"
 						name="Covid-19 internet"
-						short="Resarch and development of a website that illustrates the internet
-                                        usage of swiss people during the Covid-19 pandemic. The data waas 
+						short="Research and development of a website that illustrates the internet
+                                        usage of swiss people during the Covid-19 pandemic. The data was 
                                         collected in a national survey and was made available by the swiss
                                         federal office for statistics. The website was developed as part of a
                                         school project during my sixth semester at FHNW and was done in a team
