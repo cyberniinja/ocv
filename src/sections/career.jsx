@@ -45,7 +45,7 @@ export default function Career() {
 						<div className="line"></div>
 					</div>
 					<div className="text">
-						<h6>START_DATE - today</h6>
+						<h6>07/2023 - today</h6>
 						<h4>UI/UX Designer & Software Engineer</h4>
 						<h5>Bertschi Digital Logistics AG</h5>
 						<p>
